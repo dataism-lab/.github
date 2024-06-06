@@ -11,4 +11,6 @@ Dataism Lab is a cutting-edge R&D laboratory rooted in the Dataism philosophy. W
 ## 📜 Data is all we need for Intelligence we trust 
 Dataism Tractatus is our philosophical framework, extending beyond traditional humanism to encompass broader interpretations of intelligence and interaction within physical reality.
 
-dataism.science
+[📜 Dataism Tractatus](https://dataism.science)
+[🐦 Twitter](https://dataism.science)
+[🧑‍💻 Telegram](t.me/dataism_lab)
