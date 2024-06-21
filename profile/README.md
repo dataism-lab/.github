@@ -3,7 +3,7 @@ Dataism Lab is an R&D laboratory for good based on the Dataism Philosophy.
 
 ## 👐 Welcome to our Open-Source Projects 🌟
 🙌 Here, we believe in the power of data to solve human-centric problems and drive the future of intelligent systems. 🤖\
-🤝 Join us in pioneering the future of data science, leveraging synthetic data, metadata, and real-world data. 🚀\
+🤝 Join us in pioneering the future of data science, leveraging synthetic data, metadata, and real-world data. 🚀
 
 🧪 Synthetic Data: Creating robust simulations and synthetic datasets.\
 🧬 Metadata Analysis: Improving data management and interpretation.\
