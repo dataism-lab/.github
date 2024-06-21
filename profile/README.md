@@ -10,11 +10,9 @@ Dataism Tractatus is our philosophical framework, extending beyond traditional h
 
 🧪 Synthetic Data for creating robust simulations\
 🧬 Metadata for improving data interpretation\
-🌍 Real-World Data for developing applied solutions
+🌍 Real-World Data for developing applied solutions 
 
-
-
-🤘 Let's build the new religion of Dataism together! ☯️\
+### 🤘 Let's build the new religion of Dataism together! ☯️\
 [📜 Dataism Tractatus](https://dataism.science)\
 [📒 Medium Blog](https://dataism.science)\
 [🧑‍💻 Telegram Channel](t.me/dataism_lab)
