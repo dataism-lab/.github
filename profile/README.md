@@ -14,7 +14,7 @@ Dataism Tractatus is our philosophical framework, extending beyond traditional h
 
 
 
-🤘 Let's build the new religion of Dataism together! ☯️ 
+🤘 Let's build the new religion of Dataism together! ☯️\
 [📜 Dataism Tractatus](https://dataism.science)\
 [📒 Medium](https://dataism.science)\
 [🧑‍💻 Telegram](t.me/dataism_lab)
