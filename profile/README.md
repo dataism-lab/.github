@@ -10,8 +10,8 @@ Dataism is a philosophical paradigm, extending beyond traditional humanism to en
 🧪 Synthetic Data for creating robust simulations
 
 - We develop a robot that operates in the physical world & learns in a virtual reality using reinforcement learning & augmented reality for spatial coordination
-- We build a multi-agent system for interacting with each other & achieve complex user goals in virtual reality
-- We make personalization for agents, allowing users to interact with them as if they were people
+- We build a multi-agent system to achieve complex user goals in virtual reality
+- We make personalization for agents, allowing users to interact with them as if they were humans
 
 🧬 Metadata for improving data interpretation
 - We create a digital twin of the user for a deeper understanding of their needs & to automatically make decisions aimed at the user's happiness
