@@ -2,7 +2,7 @@
 Data Science laboratory for good based on Dataism Tractatus
 
 ### 💾 Data is all we need for Intelligence we trust ℹ️
-Dataism Tractatus is a philosophical framework, extending beyond traditional humanism to encompass broader interpretations of intelligence & it application within physical reality
+Dataism is a philosophical paradigm, extending beyond traditional humanism to encompass broader interpretations of intelligence & it application within physical reality
 
 ### 👐 Welcome to our Open-Source Projects 🌟
 🙌 Here, we believe in the power of data to solve human-centric problems and drive the future of intelligent systems 🤖\
