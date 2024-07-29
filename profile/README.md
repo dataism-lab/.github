@@ -27,5 +27,5 @@ Dataism is a philosophical paradigm, extending beyond traditional humanism to en
 
 ### 🤘 Let's build the new religion of Dataism together! ☯️
 [📜 Dataism Tractatus](https://dataism.science)\
-[📒 Medium Blog](https://dataism.science)\
+[📒 Medium Blog](https://medium.com/@dataism)\
 [🧑‍💻 Telegram Channel](t.me/dataism_lab)
