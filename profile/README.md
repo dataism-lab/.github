@@ -11,9 +11,8 @@ Dataism is a philosophical paradigm, extending beyond traditional humanism to en
 🧬 Metadata for improving data interpretation  
 🌍 Real-World Data for developing applied solutions  
 
-🤝 Join us in pioneering the future of data science, leveraging synthetic data, metadata, and real-world data 🚀
+### 🤝 Join us in pioneering the future of data science & let's build the new science of Dataism together! 🚀
 
-### 🤘 Let's build the new religion of Dataism together! ☯️
 [📜 Dataism Tractatus](https://dataism.science)\
 [📒 Medium Blog](https://medium.com/@dataism)\
 [🧑‍💻 Telegram Channel](t.me/dataism_lab)
